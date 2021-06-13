@@ -22,9 +22,11 @@ Pada proyek akhir yang kami buat menggunakan:
 
 # INSTALASI PADA LOCALHOST
 1) Download semua file/code pada repository ini
-2) Nyalakan XAMPP sebagai environmentnya
-3) Masuk kedalam directory xampp/htdocs/....
-4) Buka Web Browser dan jalankan localhost/car/
+2) Extract File hasil download pada folder xampp/htdocs/
+3) Ubah nama folder hasil extract menjadi 'car'
+4) Nyalakan XAMPP sebagai environmentnya
+5) Masuk kedalam directory xampp/htdocs/....
+6) Buka Web Browser dan jalankan localhost/car/
 
 # SAMPLE ACCOUNT DI SISTEM
 Admin: 
