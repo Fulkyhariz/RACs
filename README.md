@@ -1,2 +1,6 @@
-# RACs
-Proyek akhir mata kuliah sistem basis data
+# RACs : Rent A Cars
+PROYEK AKHIR MATA KULIAH SISTEM BASIS DATA & PRAKTIKUM
+
+########################################################
+Kelompok 3B
+
