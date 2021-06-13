@@ -30,8 +30,14 @@ Pada proyek akhir yang kami buat menggunakan:
 
 # SAMPLE ACCOUNT DI SISTEM
 Admin: 
+	username : admin
+	password : admin
 
 Karyawan:
+	username : hariz
+	password : admin
 
 Customer:
+	username : fulkyhzas
+	password : admin
 
