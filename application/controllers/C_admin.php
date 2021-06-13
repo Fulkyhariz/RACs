@@ -40,7 +40,7 @@ class C_admin extends CI_Controller {
 
 	function detail(){
 		if ($this->session->userdata('status_u') == "Admin") {
-			$id_u = $this->session->userdata('id_u');
+			$id_u = $this->input->get('id');
 			$where = array(
 				'id_u' => $id_u
 			);
