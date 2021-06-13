@@ -12,9 +12,16 @@ Pada proyek akhir yang kami buat menggunakan:
 1) XAMPP sebagai Environmentnya
 2) CodeIgniter sebagai Frameworknya
 
+# PENGGUNAAN XAMPP
+1) Install XAMPP
+2) Pada bagian Module Apache, tekan config
+3) Pilih php.ini dan cari extension=pdo_pgsql , extension=pdo_sqlite , extension=pgsql
+4) Hapus tanda ";" yang terletak di depan ketiga extension tersebut
+5) Save file php.ini
+6) Start module Apache
 
-## INSTALASI PADA LOCALHOST
+# INSTALASI PADA LOCALHOST
 1) Download semua file/code pada repository ini
-2) Gunakan XAMPP sebagai environmentnya (Untuk penggunaan XAMPP & Config akan dijelaskan)
+2) Nyalakan XAMPP sebagai environmentnya
 3) Masuk kedalam directory xampp/htdocs/....
 4) Buka Web Browser dan jalankan localhost/car/
