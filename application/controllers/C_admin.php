@@ -84,7 +84,7 @@ class C_admin extends CI_Controller {
 			$where = array(
 				'sewa.id_s' => $id_s
 			);
-			$data['sewa'] = $this->m_data->detail2($where, 'sewa')->result_array();
+			$data['sewa'] = $this->m_data->data3('sewa')->result();
 			$this->load->view('admin/header3');
 			$this->load->view('admin/detail', $data);
 			$this->load->view('admin/footer3');
