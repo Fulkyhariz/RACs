@@ -26,7 +26,8 @@ Pada proyek akhir yang kami buat menggunakan:
 3) Ubah nama folder hasil extract menjadi 'car'
 4) Nyalakan XAMPP sebagai environmentnya
 5) Buatlah database dengan nama "rental"
-6) Hubungkan ke database melalui psql dan import file RACs.sql dengan menggunakan command \i 'file path'
+6) Connect ke database "rental" dengan comman \c rental;
+7) Import file RACs.sql dengan menggunakan command \i 'file path'
 
    contoh:
    
