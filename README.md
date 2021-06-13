@@ -13,3 +13,8 @@ Pada proyek akhir yang kami buat menggunakan:
 2) CodeIgniter sebagai Frameworknya
 
 
+## INSTALASI PADA LOCALHOST
+1) Download semua file/code pada repository ini
+2) Gunakan XAMPP sebagai environmentnya (Untuk penggunaan XAMPP & Config akan dijelaskan)
+3) Masuk kedalam directory xampp/htdocs/....
+4) Buka Web Browser dan jalankan localhost/car/
