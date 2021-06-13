@@ -8,4 +8,8 @@ PROYEK AKHIR MATA KULIAH SISTEM BASIS DATA & PRAKTIKUM
 3) Fathurrahman Irwansa 	-- 1906355762
 4) Putri Aditya Pratama		-- 1906381602
 
-Pada proyek akhir yang kami buat menggunakan XAMPP sebagai Environmentnya dan codeigniter sebagai Frameworknya
+Pada proyek akhir yang kami buat menggunakan:
+1) XAMPP sebagai Environmentnya
+2) CodeIgniter sebagai Frameworknya
+
+
