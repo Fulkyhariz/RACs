@@ -25,7 +25,9 @@ Pada proyek akhir yang kami buat menggunakan:
 2) Extract File hasil download pada folder xampp/htdocs/
 3) Ubah nama folder hasil extract menjadi 'car'
 4) Nyalakan XAMPP sebagai environmentnya
-5) Buka Web Browser dan jalankan localhost/car/
+5) Buatlah database dengan nama "rental"
+6) Hubungkan ke database melalui psql dan import file RACs.sql dengan menggunakan command \i 'file path'  contoh: \i 'C:/Users/Public/Documents/RACs.sql'
+7) Buka Web Browser dan jalankan localhost/car/
 
 # SAMPLE ACCOUNT DI SISTEM
 Admin: 
