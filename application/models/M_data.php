@@ -18,6 +18,15 @@ class M_data extends CI_Model{
 						->get();
 		return $data;
 	}
+	
+	function data3($table){
+		$data = $this->db->select('*')
+						->from($table)
+						->join('customer', 'sewa.id_c = customer.id_c')
+						->join('mobil', 'sewa.id_m = mobil.id_m')
+						->get();
+		return $data;
+	}
 
 	function tambah(){
 		$config['upload_path'] = './image/';
