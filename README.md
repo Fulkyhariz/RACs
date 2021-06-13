@@ -25,3 +25,11 @@ Pada proyek akhir yang kami buat menggunakan:
 2) Nyalakan XAMPP sebagai environmentnya
 3) Masuk kedalam directory xampp/htdocs/....
 4) Buka Web Browser dan jalankan localhost/car/
+
+# SAMPLE ACCOUNT DI SISTEM
+Admin: 
+
+Karyawan:
+
+Customer:
+
